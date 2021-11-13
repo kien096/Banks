@@ -1,0 +1,14 @@
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.csproj.AssemblyReference.cache
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.AssemblyInfoInputs.cache
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.AssemblyInfo.cs
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.csproj.CoreCompileInputs.cache
+C:\Users\Ermol\source\repos\Banks\Banks\bin\Debug\netcoreapp3.1\Banks.exe
+C:\Users\Ermol\source\repos\Banks\Banks\bin\Debug\netcoreapp3.1\Banks.deps.json
+C:\Users\Ermol\source\repos\Banks\Banks\bin\Debug\netcoreapp3.1\Banks.runtimeconfig.json
+C:\Users\Ermol\source\repos\Banks\Banks\bin\Debug\netcoreapp3.1\Banks.runtimeconfig.dev.json
+C:\Users\Ermol\source\repos\Banks\Banks\bin\Debug\netcoreapp3.1\Banks.dll
+C:\Users\Ermol\source\repos\Banks\Banks\bin\Debug\netcoreapp3.1\Banks.pdb
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.dll
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.pdb
+C:\Users\Ermol\source\repos\Banks\Banks\obj\Debug\netcoreapp3.1\Banks.genruntimeconfig.cache
